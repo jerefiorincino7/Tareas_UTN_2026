@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+*{
+    font-family: "Open Sans", sans-serif;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+div{
+    margin-top: 8px;
+}
+
+p{
+    background-color: #252017;
+    color: #CFB78B;
+    width: 470px;
+}
+
+.Botonturnos{
+    display: inline-block;
+    padding: 7px 12px;
+    font-size: 16px;
+    font-weight: bold;
+    height: 34.8px;
+    width: 93.36px;
+    border-radius: 10px;
+}
+
+.Fondoamarillo{
+    background-color: #fcbd32;
+}
+
+.Letragris{
+    color: #5a5945;
+}
+
+.Botonpalette{
+    display: inline-block;
+    padding: 12px 22px;
+    background-color: black;
+    width: 173.83px;
+    height: 46.36px;
+    border-radius: 10px;
+}
+
+.Textobtnpalette{
+    padding: 0px 2px;
+    color: white;
+}
+
+.Link-externo{
+    color: #D4943A;
+}
